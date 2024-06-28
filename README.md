@@ -6,3 +6,5 @@ This paper proposes an improved hybrid growth optimizer (IHGO) to solve discrete
 
 ## The pseudocode of the Improved Hybrid Growth Optimizer
 
+## Acknowledgements
+This work is based upon research funded by Iran National Science Foundation (INSF) under project No. 4024911. 
