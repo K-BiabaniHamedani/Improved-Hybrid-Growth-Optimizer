@@ -9,6 +9,7 @@ This paper proposes an improved hybrid growth optimizer (IHGO) to solve discrete
 
 
 ## The pseudocode of the Improved Hybrid Growth Optimizer
+![Revised manuscript - Copy_001](https://github.com/K-BiabaniHamedani/Improved-Hybrid-Growth-Optimizer/assets/174060155/cc62c7ae-d002-4c14-a2ac-a026920fb127)
 
 
 ## Acknowledgements
