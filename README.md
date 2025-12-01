@@ -1,4 +1,4 @@
-# A hybridization of growth optimizer and improved arithmetic optimization algorithm and its application to discrete structural optimization
+# A hybridization of growth optimizer and improved arithmetic optimization algorithm and its application to discrete structural optimization 
 
 
 
