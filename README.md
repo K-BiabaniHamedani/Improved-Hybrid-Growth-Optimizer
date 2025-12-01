@@ -18,7 +18,7 @@ This paper proposes an improved hybrid growth optimizer (IHGO) to solve discrete
 
 
 ## Reference
-Kaveh, A., and Biabani Hamedani, K. (2024). A hybridization of growth optimizer and improved arithmetic optimization algorithm and its application to discrete structural optimization. Computers & Structures, 303, 107496. https://doi.org/10.1016/j.compstruc.2024.107496
+Kaveh, A., and Biabani Hamedani, K. (2024). A hybridization of growth optimizer and improved arithmetic optimization algorithm and its application to discrete structural optimization. ***Computers & Structures***, 303, 107496. https://doi.org/10.1016/j.compstruc.2024.107496
 
 
 
