@@ -23,4 +23,4 @@ Kaveh, A., and Biabani Hamedani, K. (2024). A hybridization of growth optimizer 
 
 
 ## Acknowledgements
-This work is based upon research funded by Iran National Science Foundation (INSF) under project No. 4024911. 
+This work is based upon research funded by **Iran National Science Foundation (INSF)** under project No. **4024911**. 
